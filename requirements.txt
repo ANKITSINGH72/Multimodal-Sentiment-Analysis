@@ -6,3 +6,4 @@ speechrecognition==3.10.4
 pillow==10.2.0
 nltk==3.8.1
 streamlit-webrtc==0.47.7
+keras==3.10.0
