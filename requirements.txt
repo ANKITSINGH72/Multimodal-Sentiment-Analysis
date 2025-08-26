@@ -1,9 +1,8 @@
-streamlit
-nltk
-speechrecognition
+tensorflow==2.14.0
+opencv-python-headless==4.7.0.72
+numpy==1.26.4
 pydub
-opencv-python-headless
-numpy
+speechrecognition
 pillow
-tensorflow
+nltk
 streamlit-webrtc
